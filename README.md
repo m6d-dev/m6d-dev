@@ -11,7 +11,6 @@ Hi there, I'm Muhammad! 👋
 [![wakatime](https://wakatime.com/badge/user/8888df57-6e52-4e21-981b-c3e7b18f5c8d.svg)](https://wakatime.com/@8888df57-6e52-4e21-981b-c3e7b18f5c8d)
 
 
-![WakaTime Stats from June 2025](https://github-readme-stats.vercel.app/api/wakatime?username=m6d&theme=radical)
-
+[![wakatime](https://wakatime.com/badge/user/8888df57-6e52-4e21-981b-c3e7b18f5c8d.svg)](https://wakatime.com/@8888df57-6e52-4e21-981b-c3e7b18f5c8d)
 ---
 [![](https://visitcount.itsvg.in/api?id=Muhammad8757&icon=0&color=0)](https://visitcount.itsvg.in)
